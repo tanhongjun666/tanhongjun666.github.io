@@ -5,3 +5,7 @@
         font-style: normal;  /* Optional: define font style */
         font-display: swap;  /* Optional: control font loading behavior */
     }
+
+.font0 {
+    font-family: "Futura", sans-serif;
+}
