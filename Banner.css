@@ -1,0 +1,22 @@
+.top-banner {
+  width: 100%;
+  background: #fff; /* or use a brand color */
+  border-bottom: 1px solid #e0e0e0; /* subtle divider */
+  box-shadow: 0 2px 4px rgba(0,0,0,0.03);
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+
+.banner-content {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  padding: 8px 24px;
+}
+
+.banner-logo {
+  height: 48px; /* Adjust as needed */
+  display: block;
+}
