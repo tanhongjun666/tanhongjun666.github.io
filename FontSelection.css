@@ -1,0 +1,7 @@
+    @font-face {
+        font-family: 'Futura'; /* A name you choose for your font */
+        src: url('Futura.ttf') format('ttf');
+        font-weight: normal; /* Optional: define font weight */
+        font-style: normal;  /* Optional: define font style */
+        font-display: swap;  /* Optional: control font loading behavior */
+    }
