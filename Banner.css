@@ -1,8 +1,8 @@
 .top-banner {
   width: 100%;
-  background: #222; /* or use a brand color */
-  border-bottom: 1px solid #e0e0e0; /* subtle divider */
-  box-shadow: 0 2px 4px rgba(0,0,0,0.03);
+  background: #111; /* or use a brand color */
+  border-bottom: 1px solid #222; /* subtle divider */
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
   position: sticky;
   top: 0;
   z-index: 1000;
@@ -19,4 +19,15 @@
 .banner-logo {
   height: 64px; /* Adjust as needed */
   display: block;
+}
+
+/* Optional: Make links/text in banner white for contrast */
+.top-banner a, .top-banner .font0 {
+  color: #fff;
+  text-decoration: none;
+}
+
+/* Optional: Add hover effect for links */
+.top-banner a:hover {
+  color: #f0c040;
 }
