@@ -21,6 +21,7 @@
   height: 64px; /* Adjust as needed */
   display: block;
   margin-left: 0;
+  margin-right: 12px;
 }
 
 /* Optional: Make links/text in banner white for contrast */
@@ -31,5 +32,5 @@
 
 /* Optional: Add hover effect for links */
 .top-banner a:hover {
-  color: #f0c040;
+  color: #00ddc0;
 }
