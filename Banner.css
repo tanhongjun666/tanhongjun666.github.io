@@ -1,6 +1,7 @@
 .top-banner {
   width: 100vw;
   background: #111; /* or use a brand color */
+  border: none;
   border-bottom: 1px solid #222; /* subtle divider */
   box-shadow: 0 2px 4px rgba(0,0,0,0.05);
   position: sticky;
