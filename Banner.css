@@ -11,7 +11,7 @@
 
 .banner-content {
   max-width: 1200px;
-  margin: 0 auto;
+  left: 160px;
   display: flex;
   align-items: center;
   padding: 8px 24px;
